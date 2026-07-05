@@ -1,2 +1,1 @@
-# energy-converter-cli
-CLI tool for converting energy units (J, cal, kWh, BTU)
+# Energy Converter CLI\nConvert between common energy units like joules (J), calories (cal), kilowatt-hours (kWh), and British Thermal Units (BTU).\n\nUsage: `energy-converter <value> <from-unit> <to-unit>`\nExample: `energy-converter 1000 J cal`
